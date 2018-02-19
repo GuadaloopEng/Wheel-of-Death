@@ -1,7 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="17008000">
+	<Property Name="varPersistentID:{18BBA624-3471-4F91-A6A1-586403AAB318}" Type="Ref">/RT myRIO Target/Shared Variables.lvlib/Start Test</Property>
 	<Property Name="varPersistentID:{34513906-13BF-4048-B4AC-63F03C8D9891}" Type="Ref">/RT myRIO Target/Shared Variables.lvlib/Stripe Count</Property>
+	<Property Name="varPersistentID:{50221F3F-7D80-4047-A1D7-116064941E32}" Type="Ref">/RT myRIO Target/Shared Variables.lvlib/Motor Off</Property>
 	<Property Name="varPersistentID:{5C7853C9-3921-4EF4-9E92-D8E592ED575A}" Type="Ref">/RT myRIO Target/Shared Variables.lvlib/Time Stamp</Property>
+	<Property Name="varPersistentID:{98249121-567B-4FCA-83CC-BFDA2215B7CB}" Type="Ref">/RT myRIO Target/Shared Variables.lvlib/Speed Reached</Property>
+	<Property Name="varPersistentID:{B52DD23F-5C38-48EB-926F-5A1482FD6C33}" Type="Ref">/RT myRIO Target/Shared Variables.lvlib/Stop Test</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
